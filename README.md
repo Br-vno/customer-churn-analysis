@@ -17,12 +17,14 @@ This project analyzes customer churn for a telecommunications company using the 
 
 ## Project Structure
 customer-churn-analysis/
+
 ├── data/                  # Cleaned dataset
 ├── notebooks/             # Main analysis notebook
 ├── results/               # Saved visualizations
 ├── src/                   # Reusable functions
 ├── requirements.txt
 └── README.md
+
 
 ## Key Findings
 - Overall churn rate: **26.58%**
