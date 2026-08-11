@@ -16,14 +16,12 @@ This project analyzes customer churn for a telecommunications company using the 
 - **Target Variable**: `Churn` (Yes/No)
 
 ## Project Structure
-customer-churn-analysis/
 
-├── data/                  # Cleaned dataset
-├── notebooks/             # Main analysis notebook
-├── results/               # Saved visualizations
-├── src/                   # Reusable functions
-├── requirements.txt
-└── README.md
+- `data/` → Cleaned dataset
+- `notebooks/` → Main analysis notebook
+- `results/` → Saved visualizations
+- `src/` → Reusable functions
+- `README.md`
 
 
 ## Key Findings
