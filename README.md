@@ -40,9 +40,8 @@ This project analyzes customer churn for a telecommunications company using the 
 
 ## How to Run
 1. Clone this repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Open `notebooks/01_churn_analysis.ipynb` in Jupyter or Codespaces
-4. Run all cells
+2. Open `notebooks/01_churn_analysis.ipynb` in Jupyter or Codespaces
+3. Run all cells
 
 ## Author
 Bruno Okoliachu
